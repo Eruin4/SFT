@@ -1,0 +1,584 @@
+[
+  {
+    "prompt": "The increasing sequence $2,3,5,6,7,10,11,\\ldots$ consists of all positive integers that are neither the square nor the cube of a positive integer. Find the 500th term of this sequence.",
+    "answer": "528",
+    "source": "aime",
+    "id": "91"
+  },
+  {
+    "prompt": "Find the value of $(52+6\\sqrt{43})^{3/2}-(52-6\\sqrt{43})^{3/2}$ .",
+    "answer": "828",
+    "source": "aime",
+    "id": "92"
+  },
+  {
+    "prompt": "Let $P_1^{}$ be a regular $r~\\mbox{gon}$ and $P_2^{}$ be a regular $s~\\mbox{gon}$ $(r\\geq s\\geq 3)$ such that each interior angle of $P_1^{}$ is $\\frac{59}{58}$ as large as each interior angle of $P_2^{}$ . What's the largest possible value of $s_{}^{}$ ?",
+    "answer": "117",
+    "source": "aime",
+    "id": "93"
+  },
+  {
+    "prompt": "Let $n^{}_{}$ be the smallest positive integer that is a multiple of $75_{}^{}$ and has exactly $75_{}^{}$ positive integral divisors, including $1_{}^{}$ and itself. Find $\\frac{n}{75}$ .",
+    "answer": "432",
+    "source": "aime",
+    "id": "94"
+  },
+  {
+    "prompt": "A biologist wants to calculate the number of fish in a lake. On May 1 she catches a random sample of 60 fish, tags them, and releases them. On September 1 she catches a random sample of 70 fish and finds that 3 of them are tagged. To calculate the number of fish in the lake on May 1, she assumes that 25% of these fish are no longer in the lake on September 1 (because of death and emigrations), that 40% of the fish were not in the lake May 1 (because of births and immigrations), and that the number of untagged fish and tagged fish in the September 1 sample are representative of the total population. What does the biologist calculate for the number of fish in the lake on May 1?",
+    "answer": "840",
+    "source": "aime",
+    "id": "95"
+  },
+  {
+    "prompt": "A triangle has vertices $P_{}^{}=(-8,5)$ , $Q_{}^{}=(-15,-19)$ , and $R_{}^{}=(1,-7)$ . The equation of the bisector of $\\angle P$ can be written in the form $ax+2y+c=0_{}^{}$ . Find $a+c_{}^{}$ .",
+    "answer": "89",
+    "source": "aime",
+    "id": "96"
+  },
+  {
+    "prompt": "A fair coin is to be tossed $10_{}^{}$ times. Let $i/j^{}_{}$ , in lowest terms, be the probability that heads never occur on consecutive tosses. Find $i+j_{}^{}$ .",
+    "answer": "73",
+    "source": "aime",
+    "id": "97"
+  },
+  {
+    "prompt": "The sets $A = \\{z : z^{18} = 1\\}$ and $B = \\{w : w^{48} = 1\\}$ are both sets of complex roots of unity.  The set $C = \\{zw : z \\in A ~ \\mbox{and} ~ w \\in B\\}$ is also a set of complex roots of unity.  How many distinct elements are in $C^{}_{}$ ?",
+    "answer": "144",
+    "source": "aime",
+    "id": "98"
+  },
+  {
+    "prompt": "Someone observed that $6! = 8 \\cdot 9 \\cdot 10$ .  Find the largest positive integer $n^{}_{}$ for which $n^{}_{}!$ can be expressed as the product of $n - 3_{}^{}$ consecutive positive integers.",
+    "answer": "23",
+    "source": "aime",
+    "id": "99"
+  },
+  {
+    "prompt": "Let $T = \\{9^k : k ~ \\mbox{is an integer}, 0 \\le k \\le 4000\\}$ .  Given that $9^{4000}_{}$ has 3817 digits and that its first (leftmost) digit is 9, how many elements of $T_{}^{}$ have 9 as their leftmost digit?",
+    "answer": "184",
+    "source": "aime",
+    "id": "100"
+  },
+  {
+    "prompt": "The rectangle $ABCD^{}_{}$ below has dimensions $AB^{}_{} = 12 \\sqrt{3}$ and $BC^{}_{} = 13 \\sqrt{3}$ .  Diagonals $\\overline{AC}$ and $\\overline{BD}$ intersect at $P^{}_{}$ .  If triangle $ABP^{}_{}$ is cut out and removed, edges $\\overline{AP}$ and $\\overline{BP}$ are joined, and the figure is then creased along segments $\\overline{CP}$ and $\\overline{DP}$ , we obtain a triangular pyramid, all four of whose faces are isosceles triangles.  Find the volume of this pyramid. AIME 1990 Problem 14.png",
+    "answer": "594",
+    "source": "aime",
+    "id": "101"
+  },
+  {
+    "prompt": "Find $ax^5 + by^5$ if the real numbers $a,b,x,$ and $y$ satisfy the equations \\begin{align*} ax + by &= 3, \\\\ ax^2 + by^2 &= 7, \\\\ ax^3 + by^3 &= 16, \\\\ ax^4 + by^4 &= 42. \\end{align*}",
+    "answer": "20",
+    "source": "aime",
+    "id": "102"
+  },
+  {
+    "prompt": "Find the least positive integer $n$ such that no matter how $10^{n}$ is expressed as the product of any two positive integers, at least one of these two integers contains the digit $0$ .",
+    "answer": "8",
+    "source": "aime",
+    "id": "224"
+  },
+  {
+    "prompt": "Let $u$ and $v$ be integers satisfying $0 < v < u$ . Let $A = (u,v)$ , let $B$ be the reflection of $A$ across the line $y = x$ , let $C$ be the reflection of $B$ across the y-axis, let $D$ be the reflection of $C$ across the x-axis, and let $E$ be the reflection of $D$ across the y-axis. The area of pentagon $ABCDE$ is $451$ . Find $u + v$ .",
+    "answer": "21",
+    "source": "aime",
+    "id": "225"
+  },
+  {
+    "prompt": "In the expansion of $(ax + b)^{2000},$ where $a$ and $b$ are relatively prime positive integers, the coefficients of $x^{2}$ and $x^{3}$ are equal. Find $a + b$ .",
+    "answer": "667",
+    "source": "aime",
+    "id": "226"
+  },
+  {
+    "prompt": "The diagram shows a rectangle that has been dissected into nine non-overlapping squares. Given that the width and the height of the rectangle are relatively prime positive integers, find the perimeter of the rectangle. [asy]defaultpen(linewidth(0.7)); draw((0,0)--(69,0)--(69,61)--(0,61)--(0,0));draw((36,0)--(36,36)--(0,36)); draw((36,33)--(69,33));draw((41,33)--(41,61));draw((25,36)--(25,61)); draw((34,36)--(34,45)--(25,45)); draw((36,36)--(36,38)--(34,38)); draw((36,38)--(41,38)); draw((34,45)--(41,45));[/asy]",
+    "answer": "260",
+    "source": "aime",
+    "id": "227"
+  },
+  {
+    "prompt": "Each of two boxes contains both black and white marbles, and the total number of marbles in the two boxes is $25.$ One marble is taken out of each box randomly. The probability that both marbles are black is $\\frac{27}{50},$ and the probability that both marbles are white is $\\frac{m}{n},$ where $m$ and $n$ are relatively prime positive integers. What is $m + n$ ?",
+    "answer": "26",
+    "source": "aime",
+    "id": "228"
+  },
+  {
+    "prompt": "For how many ordered pairs $(x,y)$ of integers is it true that $0 < x < y < 10^{6}$ and that the arithmetic mean of $x$ and $y$ is exactly $2$ more than the geometric mean of $x$ and $y$ ?",
+    "answer": "997",
+    "source": "aime",
+    "id": "229"
+  },
+  {
+    "prompt": "Suppose that $x,$ $y,$ and $z$ are three positive numbers that satisfy the equations $xyz = 1,$ $x + \\frac {1}{z} = 5,$ and $y + \\frac {1}{x} = 29.$ Then $z + \\frac {1}{y} = \\frac {m}{n},$ where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
+    "answer": "5",
+    "source": "aime",
+    "id": "230"
+  },
+  {
+    "prompt": "A container in the shape of a right circular cone is 12 inches tall and its base has a 5-inch radius. The liquid that is sealed inside is 9 inches deep when the cone is held with its point down and its base horizontal. When the liquid is held with its point up and its base horizontal, the height of the liquid is $m - n\\sqrt [3]{p},$ where $m,$ $n,$ and $p$ are positive integers and $p$ is not divisible by the cube of any prime number. Find $m + n + p$ .",
+    "answer": "52",
+    "source": "aime",
+    "id": "231"
+  },
+  {
+    "prompt": "The system of equations \\begin{eqnarray*}\\log_{10}(2000xy) - (\\log_{10}x)(\\log_{10}y) & = & 4 \\\\ \\log_{10}(2yz) - (\\log_{10}y)(\\log_{10}z) & = & 1 \\\\ \\log_{10}(zx) - (\\log_{10}z)(\\log_{10}x) & = & 0 \\\\ \\end{eqnarray*} has two solutions $(x_{1},y_{1},z_{1})$ and $(x_{2},y_{2},z_{2})$ . Find $y_{1} + y_{2}$ .",
+    "answer": "25",
+    "source": "aime",
+    "id": "232"
+  },
+  {
+    "prompt": "A sequence of numbers $x_{1},x_{2},x_{3},\\ldots,x_{100}$ has the property that, for every integer $k$ between $1$ and $100,$ inclusive, the number $x_{k}$ is $k$ less than the sum of the other $99$ numbers. Given that $x_{50} = \\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers, find $m + n$ .",
+    "answer": "173",
+    "source": "aime",
+    "id": "233"
+  },
+  {
+    "prompt": "Let $S$ be the sum of all numbers of the form $\\frac{a}{b}$ , where $a$ and $b$ are relatively prime positive divisors of $1000.$ What is the greatest integer that does not exceed $\\frac{S}{10}$ ?",
+    "answer": "248",
+    "source": "aime",
+    "id": "234"
+  },
+  {
+    "prompt": "Given a function $f$ for which \\[f(x) = f(398 - x) = f(2158 - x) = f(3214 - x)\\] holds for all real $x,$ what is the largest number of different values that can appear in the list $f(0),f(1),f(2),\\ldots,f(999)$ ?",
+    "answer": "177",
+    "source": "aime",
+    "id": "235"
+  },
+  {
+    "prompt": "In the middle of a vast prairie, a firetruck is stationed at the intersection of two perpendicular straight highways. The truck travels at $50$ miles per hour along the highways and at $14$ miles per hour across the prairie. Consider the set of points that can be reached by the firetruck within six minutes. The area of this region is $\\frac{m}{n}$ square miles, where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
+    "answer": "731",
+    "source": "aime",
+    "id": "236"
+  },
+  {
+    "prompt": "In triangle $ABC,$ it is given that angles $B$ and $C$ are congruent. Points $P$ and $Q$ lie on $\\overline{AC}$ and $\\overline{AB},$ respectively, so that $AP = PQ = QB = BC.$ Angle $ACB$ is $r$ times as large as angle $APQ,$ where $r$ is a positive real number. Find $\\lfloor 1000r \\rfloor$ .",
+    "answer": "571",
+    "source": "aime",
+    "id": "237"
+  },
+  {
+    "prompt": "A stack of $2000$ cards is labelled with the integers from $1$ to $2000,$ with different integers on different cards. The cards in the stack are not in numerical order. The top card is removed from the stack and placed on the table, and the next card is moved to the bottom of the stack. The new top card is removed from the stack and placed on the table, to the right of the card already there, and the next card in the stack is moved to the bottom of the stack. The process - placing the top card to the right of the cards already on the table and moving the next card in the stack to the bottom of the stack - is repeated until all cards are on the table. It is found that, reading from left to right, the labels on the cards are now in ascending order: $1,2,3,\\ldots,1999,2000.$ In the original stack of cards, how many cards were above the card labeled $1999$ ?",
+    "answer": "927",
+    "source": "aime",
+    "id": "238"
+  },
+  {
+    "prompt": "A point whose coordinates are both integers is called a lattice point.  How many lattice points lie on the hyperbola $x^2 - y^2 = 2000^2$ ?",
+    "answer": "98",
+    "source": "aime",
+    "id": "239"
+  },
+  {
+    "prompt": "A deck of forty cards consists of four 1's, four 2's,..., and four 10's.  A matching pair (two cards with the same number) is removed from the deck.  Given that these cards are not returned to the deck, let $m/n$ be the probability that two randomly selected cards also form a pair, where $m$ and $n$ are relatively prime positive integers.  Find $m + n.$",
+    "answer": "758",
+    "source": "aime",
+    "id": "240"
+  },
+  {
+    "prompt": "What is the smallest positive integer with six positive odd integer divisors and twelve positive even integer divisors? ",
+    "answer": "180",
+    "source": "aime",
+    "id": "241"
+  },
+  {
+    "prompt": "Given eight distinguishable rings, let $n$ be the number of possible five-ring arrangements on the four fingers (not the thumb) of one hand. The order of rings on each finger is significant, but it is not required that each finger have a ring. Find the leftmost three nonzero digits of $n$ . ",
+    "answer": "376",
+    "source": "aime",
+    "id": "242"
+  },
+  {
+    "prompt": "One base of a trapezoid is $100$ units longer than the other base. The segment that joins the midpoints of the legs divides the trapezoid into two regions whose areas are in the ratio $2: 3$ . Let $x$ be the length of the segment joining the legs of the trapezoid that is parallel to the bases and that divides the trapezoid into two regions of equal area. Find the greatest integer that does not exceed $x^2/100$ .",
+    "answer": "181",
+    "source": "aime",
+    "id": "243"
+  },
+  {
+    "prompt": "In trapezoid $ABCD$ , leg $\\overline{BC}$ is perpendicular to bases $\\overline{AB}$ and $\\overline{CD}$ , and diagonals $\\overline{AC}$ and $\\overline{BD}$ are perpendicular. Given that $AB=\\sqrt{11}$ and $AD=\\sqrt{1001}$ , find $BC^2$ .",
+    "answer": "110",
+    "source": "aime",
+    "id": "244"
+  },
+  {
+    "prompt": "Given that $z$ is a complex number such that $z+\\frac 1z=2\\cos 3^\\circ$ , find the least integer that is greater than $z^{2000}+\\frac 1{z^{2000}}$ .",
+    "answer": "0",
+    "source": "aime",
+    "id": "245"
+  },
+  {
+    "prompt": "A circle is inscribed in quadrilateral $ABCD$ , tangent to $\\overline{AB}$ at $P$ and to $\\overline{CD}$ at $Q$ . Given that $AP=19$ , $PB=26$ , $CQ=37$ , and $QD=23$ , find the square of the radius of the circle.",
+    "answer": "647",
+    "source": "aime",
+    "id": "246"
+  },
+  {
+    "prompt": "The coordinates of the vertices of isosceles trapezoid $ABCD$ are all integers, with $A=(20,100)$ and $D=(21,107)$ . The trapezoid has no horizontal or vertical sides, and $\\overline{AB}$ and $\\overline{CD}$ are the only parallel sides. The sum of the absolute values of all possible slopes for $\\overline{AB}$ is $m/n$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "answer": "131",
+    "source": "aime",
+    "id": "247"
+  },
+  {
+    "prompt": "The points $A$ , $B$ and $C$ lie on the surface of a sphere with center $O$ and radius $20$ . It is given that $AB=13$ , $BC=14$ , $CA=15$ , and that the distance from $O$ to triangle $ABC$ is $\\frac{m\\sqrt{n}}k$ , where $m$ , $n$ , and $k$ are positive integers, $m$ and $k$ are relatively prime, and $n$ is not divisible by the square of any prime. Find $m+n+k$ .",
+    "answer": "118",
+    "source": "aime",
+    "id": "248"
+  },
+  {
+    "prompt": "The equation $2000x^6+100x^5+10x^3+x-2=0$ has exactly two real roots, one of which is $\\frac{m+\\sqrt{n}}r$ , where $m$ , $n$ and $r$ are integers, $m$ and $r$ are relatively prime, and $r>0$ . Find $m+n+r$ .",
+    "answer": "200",
+    "source": "aime",
+    "id": "249"
+  },
+  {
+    "prompt": "Every positive integer $k$ has a unique factorial base expansion $(f_1,f_2,f_3,\\ldots,f_m)$ , meaning that $k=1!\\cdot f_1+2!\\cdot f_2+3!\\cdot f_3+\\cdots+m!\\cdot f_m$ , where each $f_i$ is an integer, $0\\le f_i\\le i$ , and $0<f_m$ . Given that $(f_1,f_2,f_3,\\ldots,f_j)$ is the factorial base expansion of $16!-32!+48!-64!+\\cdots+1968!-1984!+2000!$ , find the value of $f_1-f_2+f_3-f_4+\\cdots+(-1)^{j+1}f_j$ .",
+    "answer": "495",
+    "source": "aime",
+    "id": "250"
+  },
+  {
+    "prompt": "Maya lists all the positive divisors of $2010^2$ . She then randomly selects two distinct divisors from this list. Let $p$ be the probability that exactly one of the selected divisors is a perfect square. The probability $p$ can be expressed in the form $\\frac {m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
+    "answer": "107",
+    "source": "aime",
+    "id": "508"
+  },
+  {
+    "prompt": "Find the remainder when $9 \\times 99 \\times 999 \\times \\cdots \\times \\underbrace{99\\cdots9}_{\\text{999 9's}}$ is divided by $1000$ .",
+    "answer": "109",
+    "source": "aime",
+    "id": "509"
+  },
+  {
+    "prompt": "Suppose that $y = \\frac34x$ and $x^y = y^x$ . The quantity $x + y$ can be expressed as a rational number $\\frac {r}{s}$ , where $r$ and $s$ are relatively prime positive integers. Find $r + s$ .",
+    "answer": "529",
+    "source": "aime",
+    "id": "510"
+  },
+  {
+    "prompt": "Jackie and Phil have two fair coins and a third coin that comes up heads with probability $\\frac47$ . Jackie flips the three coins, and then Phil flips the three coins. Let $\\frac {m}{n}$ be the probability that Jackie gets the same number of heads as Phil, where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
+    "answer": "515",
+    "source": "aime",
+    "id": "511"
+  },
+  {
+    "prompt": "Positive integers $a$ , $b$ , $c$ , and $d$ satisfy $a > b > c > d$ , $a + b + c + d = 2010$ , and $a^2 - b^2 + c^2 - d^2 = 2010$ . Find the number of possible values of $a$ .",
+    "answer": "501",
+    "source": "aime",
+    "id": "512"
+  },
+  {
+    "prompt": "Let $P(x)$ be a quadratic polynomial with real coefficients satisfying $x^2 - 2x + 2 \\le P(x) \\le 2x^2 - 4x + 3$ for all real  numbers $x$ , and suppose $P(11) = 181$ . Find $P(16)$ .",
+    "answer": "406",
+    "source": "aime",
+    "id": "513"
+  },
+  {
+    "prompt": "Define an ordered triple $(A, B, C)$ of sets to be $\\textit{minimally intersecting}$ if $|A \\cap B| = |B \\cap C| = |C \\cap A| = 1$ and $A \\cap B \\cap C = \\emptyset$ . For example, $(\\{1,2\\},\\{2,3\\},\\{1,3,4\\})$ is a minimally intersecting triple. Let $N$ be the number of minimally intersecting ordered triples of sets for which each set is a subset of $\\{1,2,3,4,5,6,7\\}$ . Find the remainder when $N$ is divided by $1000$ . Note : $|S|$ represents the number of elements in the set $S$ .",
+    "answer": "760",
+    "source": "aime",
+    "id": "514"
+  },
+  {
+    "prompt": "For a real number $a$ , let $\\lfloor a \\rfloor$ denote the greatest integer less than or equal to $a$ . Let $\\mathcal{R}$ denote the region in the coordinate plane consisting of points $(x,y)$ such that $\\lfloor x \\rfloor ^2 + \\lfloor y \\rfloor ^2 = 25$ . The region $\\mathcal{R}$ is completely contained in a disk of radius $r$ (a disk is the union of a circle and its interior). The minimum value of $r$ can be written as $\\frac {\\sqrt {m}}{n}$ , where $m$ and $n$ are integers and $m$ is not divisible by the square of any prime. Find $m + n$ .",
+    "answer": "132",
+    "source": "aime",
+    "id": "515"
+  },
+  {
+    "prompt": "Let $(a,b,c)$ be a real solution of the system of equations $x^3 - xyz = 2$ , $y^3 - xyz = 6$ , $z^3 - xyz = 20$ . The greatest possible value of $a^3 + b^3 + c^3$ can be written in the form $\\frac {m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
+    "answer": "158",
+    "source": "aime",
+    "id": "516"
+  },
+  {
+    "prompt": "Let $N$ be the number of ways to write $2010$ in the form $2010 = a_3 \\cdot 10^3 + a_2 \\cdot 10^2 + a_1 \\cdot 10 + a_0$ , where the $a_i$ 's are integers, and $0 \\le a_i \\le 99$ . An example of such a representation is $1\\cdot 10^3 + 3\\cdot 10^2 + 67\\cdot 10^1 + 40\\cdot 10^0$ . Find $N$ .",
+    "answer": "202",
+    "source": "aime",
+    "id": "517"
+  },
+  {
+    "prompt": "Let $\\mathcal{R}$ be the region consisting of the set of points in the coordinate plane that satisfy both $|8 - x| + y \\le 10$ and $3y - x \\ge 15$ . When $\\mathcal{R}$ is revolved around the line whose equation is $3y - x = 15$ , the volume of the resulting solid is $\\frac {m\\pi}{n\\sqrt {p}}$ , where $m$ , $n$ , and $p$ are positive integers, $m$ and $n$ are relatively prime, and $p$ is not divisible by the square of any prime. Find $m + n + p$ .",
+    "answer": "365",
+    "source": "aime",
+    "id": "518"
+  },
+  {
+    "prompt": "Let $m \\ge 3$ be an integer and let $S = \\{3,4,5,\\ldots,m\\}$ . Find the smallest value of $m$ such that for every partition of $S$ into two subsets, at least one of the subsets contains integers $a$ , $b$ , and $c$ (not necessarily distinct) such that $ab = c$ . Note : a partition of $S$ is a pair of sets $A$ , $B$ such that $A \\cap B = \\emptyset$ , $A \\cup B = S$ .",
+    "answer": "243",
+    "source": "aime",
+    "id": "519"
+  },
+  {
+    "prompt": "Rectangle $ABCD$ and a semicircle with diameter $AB$ are coplanar and have nonoverlapping interiors. Let $\\mathcal{R}$ denote the region enclosed by the semicircle and the rectangle. Line $\\ell$ meets the semicircle, segment $AB$ , and segment $CD$ at distinct points $N$ , $U$ , and $T$ , respectively. Line $\\ell$ divides region $\\mathcal{R}$ into two regions with areas in the ratio $1: 2$ . Suppose that $AU = 84$ , $AN = 126$ , and $UB = 168$ . Then $DA$ can be represented as $m\\sqrt {n}$ , where $m$ and $n$ are positive integers and $n$ is not divisible by the square of any prime. Find $m + n$ .",
+    "answer": "69",
+    "source": "aime",
+    "id": "520"
+  },
+  {
+    "prompt": "For each positive integer $n,$ let $f(n) = \\sum_{k = 1}^{100} \\lfloor \\log_{10} (kn) \\rfloor$ . Find the largest value of $n$ for which $f(n) \\le 300$ . Note: $\\lfloor x \\rfloor$ is the greatest integer less than or equal to $x$ .",
+    "answer": "109",
+    "source": "aime",
+    "id": "521"
+  },
+  {
+    "prompt": "In $\\triangle{ABC}$ with $AB = 12$ , $BC = 13$ , and $AC = 15$ , let $M$ be a point on $\\overline{AC}$ such that the incircles of $\\triangle{ABM}$ and $\\triangle{BCM}$ have equal radii. Then $\\frac{AM}{CM} = \\frac{p}{q}$ , where $p$ and $q$ are relatively prime positive integers. Find $p + q$ .",
+    "answer": "45",
+    "source": "aime",
+    "id": "522"
+  },
+  {
+    "prompt": "Let $N$ be the greatest integer multiple of $36$ all of whose digits are even and no two of whose digits are the same. Find the remainder when $N$ is divided by $1000$ .",
+    "answer": "640",
+    "source": "aime",
+    "id": "523"
+  },
+  {
+    "prompt": "A point $P$ is chosen at random in the interior of a unit square $S$ . Let $d(P)$ denote the distance from $P$ to the closest side of $S$ . The probability that $\\frac{1}{5}\\le d(P)\\le\\frac{1}{3}$ is equal to $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "answer": "281",
+    "source": "aime",
+    "id": "524"
+  },
+  {
+    "prompt": "Let $K$ be the product of all factors $(b-a)$ (not necessarily distinct) where $a$ and $b$ are integers satisfying $1\\le a < b \\le 20$ . Find the greatest positive integer $n$ such that $2^n$ divides $K$ .",
+    "answer": "150",
+    "source": "aime",
+    "id": "525"
+  },
+  {
+    "prompt": "Dave arrives at an airport which has twelve gates arranged in a straight line with exactly $100$ feet between adjacent gates. His departure gate is assigned at random. After waiting at that gate, Dave is told the departure gate has been changed to a different gate, again at random. Let the probability that Dave walks $400$ feet or less to the new gate be a fraction $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "answer": "52",
+    "source": "aime",
+    "id": "526"
+  },
+  {
+    "prompt": "Positive numbers $x$ , $y$ , and $z$ satisfy $xyz = 10^{81}$ and $(\\log_{10}x)(\\log_{10} yz) + (\\log_{10}y) (\\log_{10}z) = 468$ . Find $\\sqrt {(\\log_{10}x)^2 + (\\log_{10}y)^2 + (\\log_{10}z)^2}$ .",
+    "answer": "75",
+    "source": "aime",
+    "id": "527"
+  },
+  {
+    "prompt": "Find the smallest positive integer $n$ with the property that the polynomial $x^4 - nx + 63$ can be written as a product of two nonconstant polynomials with integer coefficients.",
+    "answer": "8",
+    "source": "aime",
+    "id": "528"
+  },
+  {
+    "prompt": "Let $P(z)=z^3+az^2+bz+c$ , where $a$ , $b$ , and $c$ are real. There exists a complex number $w$ such that the three roots of $P(z)$ are $w+3i$ , $w+9i$ , and $2w-4$ , where $i^2=-1$ . Find $|a+b+c|$ .",
+    "answer": "136",
+    "source": "aime",
+    "id": "529"
+  },
+  {
+    "prompt": "Let $ABCDEF$ be a regular hexagon. Let $G$ , $H$ , $I$ , $J$ , $K$ , and $L$ be the midpoints of sides $AB$ , $BC$ , $CD$ , $DE$ , $EF$ , and $AF$ , respectively. The segments $\\overline{AH}$ , $\\overline{BI}$ , $\\overline{CJ}$ , $\\overline{DK}$ , $\\overline{EL}$ , and $\\overline{FG}$ bound a smaller regular hexagon. Let the ratio of the area of the smaller hexagon to the area of $ABCDEF$ be expressed as a fraction $\\frac {m}{n}$ where $m$ and $n$ are relatively prime positive integers. Find $m + n$ . ",
+    "answer": "11",
+    "source": "aime",
+    "id": "530"
+  },
+  {
+    "prompt": "Find the number of second-degree polynomials $f(x)$ with integer coefficients and integer zeros for which $f(0)=2010$ .",
+    "answer": "163",
+    "source": "aime",
+    "id": "531"
+  },
+  {
+    "prompt": "Two noncongruent integer-sided isosceles triangles have the same perimeter and the same area. The ratio of the lengths of the bases of the two triangles is $8: 7$ . Find the minimum possible value of their common perimeter.",
+    "answer": "676",
+    "source": "aime",
+    "id": "532"
+  },
+  {
+    "prompt": "The $52$ cards in a deck are numbered $1, 2, \\cdots, 52$ . Alex, Blair, Corey, and Dylan each pick a card from the deck randomly and without replacement. The two people with lower numbered cards form a team, and the two people with higher numbered cards form another team. Let $p(a)$ be the probability that Alex and Dylan are on the same team, given that Alex picks one of the cards $a$ and $a+9$ , and Dylan picks the other of these two cards. The minimum value of $p(a)$ for which $p(a)\\ge\\frac{1}{2}$ can be written as $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "answer": "263",
+    "source": "aime",
+    "id": "533"
+  },
+  {
+    "prompt": "Triangle $ABC$ with right angle at $C$ , $\\angle BAC < 45^\\circ$ and $AB = 4$ . Point $P$ on $\\overline{AB}$ is chosen such that $\\angle APC = 2\\angle ACP$ and $CP = 1$ . The ratio $\\frac{AP}{BP}$ can be represented in the form $p + q\\sqrt{r}$ , where $p$ , $q$ , $r$ are positive integers and $r$ is not divisible by the square of any prime. Find $p+q+r$ .",
+    "answer": "7",
+    "source": "aime",
+    "id": "534"
+  },
+  {
+    "prompt": "In triangle $ABC$ , $AC=13$ , $BC=14$ , and $AB=15$ . Points $M$ and $D$ lie on $AC$ with $AM=MC$ and $\\angle ABD = \\angle DBC$ . Points $N$ and $E$ lie on $AB$ with $AN=NB$ and $\\angle ACE = \\angle ECB$ . Let $P$ be the point, other than $A$ , of intersection of the circumcircles of $\\triangle AMN$ and $\\triangle ADE$ . Ray $AP$ meets $BC$ at $Q$ . The ratio $\\frac{BQ}{CQ}$ can be written in the form $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m-n$ .",
+    "answer": "218",
+    "source": "aime",
+    "id": "535"
+  },
+  {
+    "prompt": "In $\\triangle ABC$ with $AB=AC,$ point $D$ lies strictly between $A$ and $C$ on side $\\overline{AC},$ and point $E$ lies strictly between $A$ and $B$ on side $\\overline{AB}$ such that $AE=ED=DB=BC.$ The degree measure of $\\angle ABC$ is $\\tfrac{m}{n},$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$ ",
+    "answer": "547",
+    "source": "aime",
+    "id": "800"
+  },
+  {
+    "prompt": "There is a unique positive real number $x$ such that the three numbers $\\log_8(2x),\\log_4x,$ and $\\log_2x,$ in that order, form a geometric progression with positive common ratio. The number $x$ can be written as $\\tfrac{m}{n},$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$",
+    "answer": "17",
+    "source": "aime",
+    "id": "801"
+  },
+  {
+    "prompt": "A positive integer $N$ has base-eleven representation $\\underline{a}\\kern 0.1em\\underline{b}\\kern 0.1em\\underline{c}$ and base-eight representation $\\underline1\\kern 0.1em\\underline{b}\\kern 0.1em\\underline{c}\\kern 0.1em\\underline{a},$ where $a,b,$ and $c$ represent (not necessarily distinct) digits. Find the least such $N$ expressed in base ten.",
+    "answer": "621",
+    "source": "aime",
+    "id": "802"
+  },
+  {
+    "prompt": "Let $S$ be the set of positive integers $N$ with the property that the last four digits of $N$ are $2020,$ and when the last four digits are removed, the result is a divisor of $N.$ For example, $42{,}020$ is in $S$ because $4$ is a divisor of $42{,}020.$ Find the sum of all the digits of all the numbers in $S.$ For example, the number $42{,}020$ contributes $4+2+0+2+0=8$ to this total.",
+    "answer": "93",
+    "source": "aime",
+    "id": "803"
+  },
+  {
+    "prompt": "Six cards numbered $1$ through $6$ are to be lined up in a row. Find the number of arrangements of these six cards where one of the cards can be removed leaving the remaining five cards in either ascending or descending order.",
+    "answer": "52",
+    "source": "aime",
+    "id": "804"
+  },
+  {
+    "prompt": "A flat board has a circular hole with radius $1$ and a circular hole with radius $2$ such that the distance between the centers of the two holes is $7$ . Two spheres with equal radii sit in the two holes such that the spheres are tangent to each other. The square of the radius of the spheres is $\\tfrac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "answer": "173",
+    "source": "aime",
+    "id": "805"
+  },
+  {
+    "prompt": "A club consisting of $11$ men and $12$ women needs to choose a committee from among its members so that the number of women on the committee is one more than the number of men on the committee. The committee could have as few as $1$ member or as many as $23$ members. Let $N$ be the number of such committees that can be formed. Find the sum of the prime numbers that divide $N.$",
+    "answer": "81",
+    "source": "aime",
+    "id": "806"
+  },
+  {
+    "prompt": "A bug walks all day and sleeps all night. On the first day, it starts at point $O,$ faces east, and walks a distance of $5$ units due east. Each night the bug rotates $60^\\circ$ counterclockwise. Each day it walks in this new direction half as far as it walked the previous day. The bug gets arbitrarily close to the point $P.$ Then $OP^2=\\tfrac{m}{n},$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$",
+    "answer": "103",
+    "source": "aime",
+    "id": "807"
+  },
+  {
+    "prompt": "Let $S$ be the set of positive integer divisors of $20^9.$ Three numbers are chosen independently and at random with replacement from the set $S$ and labeled $a_1,a_2,$ and $a_3$ in the order they are chosen. The probability that both $a_1$ divides $a_2$ and $a_2$ divides $a_3$ is $\\tfrac{m}{n},$ where $m$ and $n$ are relatively prime positive integers. Find $m.$",
+    "answer": "77",
+    "source": "aime",
+    "id": "808"
+  },
+  {
+    "prompt": "Let $m$ and $n$ be positive integers satisfying the conditions $\\quad\\bullet\\ \\gcd(m+n,210)=1,$ $\\quad\\bullet\\ m^m$ is a multiple of $n^n,$ and $\\quad\\bullet\\ m$ is not a multiple of $n.$ Find the least possible value of $m+n.$",
+    "answer": "407",
+    "source": "aime",
+    "id": "809"
+  },
+  {
+    "prompt": "For integers $a,b,c$ and $d,$ let $f(x)=x^2+ax+b$ and $g(x)=x^2+cx+d.$ Find the number of ordered triples $(a,b,c)$ of integers with absolute values not exceeding $10$ for which there is an integer $d$ such that $g(f(2))=g(f(4))=0.$",
+    "answer": "510",
+    "source": "aime",
+    "id": "810"
+  },
+  {
+    "prompt": "Let $n$ be the least positive integer for which $149^n-2^n$ is divisible by $3^3\\cdot5^5\\cdot7^7.$ Find the number of positive integer divisors of $n.$",
+    "answer": "270",
+    "source": "aime",
+    "id": "811"
+  },
+  {
+    "prompt": "Point $D$ lies on side $\\overline{BC}$ of $\\triangle ABC$ so that $\\overline{AD}$ bisects $\\angle BAC.$ The perpendicular bisector of $\\overline{AD}$ intersects the bisectors of $\\angle ABC$ and $\\angle ACB$ in points $E$ and $F,$ respectively. Given that $AB=4,BC=5,$ and $CA=6,$ the area of $\\triangle AEF$ can be written as $\\tfrac{m\\sqrt{n}}p,$ where $m$ and $p$ are relatively prime positive integers, and $n$ is a positive integer not divisible by the square of any prime. Find $m+n+p$ .",
+    "answer": "36",
+    "source": "aime",
+    "id": "812"
+  },
+  {
+    "prompt": "Let $P(x)$ be a quadratic polynomial with complex coefficients whose $x^2$ coefficient is $1.$ Suppose the equation $P(P(x))=0$ has four distinct solutions, $x=3,4,a,b.$ Find the sum of all possible values of $(a+b)^2.$",
+    "answer": "85",
+    "source": "aime",
+    "id": "813"
+  },
+  {
+    "prompt": "Let $\\triangle ABC$ be an acute triangle with circumcircle $\\omega,$ and let $H$ be the intersection of the altitudes of $\\triangle ABC.$ Suppose the tangent to the circumcircle of $\\triangle HBC$ at $H$ intersects $\\omega$ at points $X$ and $Y$ with $HA=3,HX=2,$ and $HY=6.$ The area of $\\triangle ABC$ can be written in the form $m\\sqrt{n},$ where $m$ and $n$ are positive integers, and $n$ is not divisible by the square of any prime. Find $m+n.$",
+    "answer": "58",
+    "source": "aime",
+    "id": "814"
+  },
+  {
+    "prompt": "Find the number of ordered pairs of positive integers $(m,n)$ such that ${m^2n = 20 ^{20}}$ .",
+    "answer": "231",
+    "source": "aime",
+    "id": "815"
+  },
+  {
+    "prompt": "Let $P$ be a point chosen uniformly at random in the interior of the unit square with vertices at $(0,0), (1,0), (1,1)$ , and $(0,1)$ . The probability that the slope of the line determined by $P$ and the point $\\left(\\frac58, \\frac38 \\right)$ is greater than or equal to $\\frac12$ can be written as $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "answer": "171",
+    "source": "aime",
+    "id": "816"
+  },
+  {
+    "prompt": "The value of $x$ that satisfies $\\log_{2^x} 3^{20} = \\log_{2^{x+3}} 3^{2020}$ can be written as $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "answer": "103",
+    "source": "aime",
+    "id": "817"
+  },
+  {
+    "prompt": "Triangles $\\triangle ABC$ and $\\triangle A'B'C'$ lie in the coordinate plane with vertices $A(0,0)$ , $B(0,12)$ , $C(16,0)$ , $A'(24,18)$ , $B'(36,18)$ , $C'(24,2)$ . A rotation of $m$ degrees clockwise around the point $(x,y)$ where $0<m<180$ , will transform $\\triangle ABC$ to $\\triangle A'B'C'$ . Find $m+x+y$ .",
+    "answer": "108",
+    "source": "aime",
+    "id": "818"
+  },
+  {
+    "prompt": "For each positive integer $n$ , let $f(n)$ be the sum of the digits in the base-four representation of $n$ and let $g(n)$ be the sum of the digits in the base-eight representation of $f(n)$ . For example, $f(2020) = f(133210_{\\text{4}}) = 10 = 12_{\\text{8}}$ , and $g(2020) = \\text{the digit sum of }12_{\\text{8}} = 3$ . Let $N$ be the least value of $n$ such that the base-sixteen representation of $g(n)$ cannot be expressed using only the digits $0$ through $9$ . Find the remainder when $N$ is divided by $1000$ .",
+    "answer": "151",
+    "source": "aime",
+    "id": "819"
+  },
+  {
+    "prompt": "Define a sequence recursively by $t_1 = 20$ , $t_2 = 21$ , and \\[t_n = \\frac{5t_{n-1}+1}{25t_{n-2}}\\] for all $n \\ge 3$ . Then $t_{2020}$ can be written as $\\frac{p}{q}$ , where $p$ and $q$ are relatively prime positive integers. Find $p+q$ .",
+    "answer": "626",
+    "source": "aime",
+    "id": "820"
+  },
+  {
+    "prompt": "Two congruent right circular cones each with base radius $3$ and height $8$ have axes of symmetry that intersect at right angles at a point in the interior of the cones a distance $3$ from the base of each cone. A sphere with radius $r$ lies within both cones. The maximum possible value of $r^2$ is $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "answer": "298",
+    "source": "aime",
+    "id": "821"
+  },
+  {
+    "prompt": "Define a sequence recursively by $f_1(x)=|x-1|$ and $f_n(x)=f_{n-1}(|x-n|)$ for integers $n>1$ . Find the least value of $n$ such that the sum of the zeros of $f_n$ exceeds $500,000$ .",
+    "answer": "101",
+    "source": "aime",
+    "id": "822"
+  },
+  {
+    "prompt": "While watching a show, Ayako, Billy, Carlos, Dahlia, Ehuang, and Frank sat in that order in a row of six chairs. During the break, they went to the kitchen for a snack. When they came back, they sat on those six chairs in such a way that if two of them sat next to each other before the break, then they did not sit next to each other after the break. Find the number of possible seating orders they could have chosen after the break. ",
+    "answer": "90",
+    "source": "aime",
+    "id": "823"
+  },
+  {
+    "prompt": "Find the sum of all positive integers $n$ such that when $1^3+2^3+3^3+\\cdots +n^3$ is divided by $n+5$ , the remainder is $17$ .",
+    "answer": "239",
+    "source": "aime",
+    "id": "824"
+  },
+  {
+    "prompt": "Let $P(x) = x^2 - 3x - 7$ , and let $Q(x)$ and $R(x)$ be two quadratic polynomials also with the coefficient of $x^2$ equal to $1$ . David computes each of the three sums $P + Q$ , $P + R$ , and $Q + R$ and is surprised to find that each pair of these sums has a common root, and these three common roots are distinct. If $Q(0) = 2$ , then $R(0) = \\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
+    "answer": "71",
+    "source": "aime",
+    "id": "825"
+  },
+  {
+    "prompt": "Let $m$ and $n$ be odd integers greater than $1.$ An $m\\times n$ rectangle is made up of unit squares where the squares in the top row are numbered left to right with the integers $1$ through $n$ , those in the second row are numbered left to right with the integers $n + 1$ through $2n$ , and so on. Square $200$ is in the top row, and square $2000$ is in the bottom row. Find the number of ordered pairs $(m,n)$ of odd integers greater than $1$ with the property that, in the $m\\times n$ rectangle, the line through the centers of squares $200$ and $2000$ intersects the interior of square $1099$ .",
+    "answer": "248",
+    "source": "aime",
+    "id": "826"
+  },
+  {
+    "prompt": "Convex pentagon $ABCDE$ has side lengths $AB=5$ , $BC=CD=DE=6$ , and $EA=7$ . Moreover, the pentagon has an inscribed circle (a circle tangent to each side of the pentagon). Find the area of $ABCDE$ .",
+    "answer": "60",
+    "source": "aime",
+    "id": "827"
+  },
+  {
+    "prompt": "For real number $x$ let $\\lfloor x\\rfloor$ be the greatest integer less than or equal to $x$ , and define $\\{x\\} = x - \\lfloor x \\rfloor$ to be the fractional part of $x$ . For example, $\\{3\\} = 0$ and $\\{4.56\\} = 0.56$ . Define $f(x)=x\\{x\\}$ , and let $N$ be the number of real-valued solutions to the equation $f(f(f(x)))=17$ for $0\\leq x\\leq 2020$ . Find the remainder when $N$ is divided by $1000$ .",
+    "answer": "10",
+    "source": "aime",
+    "id": "828"
+  },
+  {
+    "prompt": "Let $\\triangle ABC$ be an acute scalene triangle with circumcircle $\\omega$ . The tangents to $\\omega$ at $B$ and $C$ intersect at $T$ . Let $X$ and $Y$ be the projections of $T$ onto lines $AB$ and $AC$ , respectively. Suppose $BT = CT = 16$ , $BC = 22$ , and $TX^2 + TY^2 + XY^2 = 1143$ . Find $XY^2$ .",
+    "answer": "717",
+    "source": "aime",
+    "id": "829"
+  }
+]
